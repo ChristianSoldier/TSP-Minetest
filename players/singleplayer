@@ -1,0 +1,123 @@
+extended_attributes = """
+{"sethome:home":"(68.398002624512,69.5,241.01200866699)"}
+
+"""
+breath = 11
+name = singleplayer
+position = (1313.92,708.09,1780.58)
+version = 1
+hp = 20
+pitch = 25.2
+yaw = 38.1699
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:torch 99
+Item mesecons_pistons:piston_normal_off
+Item default:dirt
+Item default:cobble
+Item starsnodes:lightsaberonblue
+Item mesecons_delayer:delayer_off_1
+Item mesecons_pistons:piston_sticky_off
+Item default:clay_lump 4
+Item mesecons_insulated:insulated_off
+Item mesecons:wire_00000000_off
+Item mesecons_button:button_off
+Item technology:elevator_rail
+Item default:grass_1 12
+Item default:sign_wall_steel
+Item technology:plan_ELEVATOR_RAIL
+Item technology:plan_ELEVATOR
+Item moretrees:rubber_tree_leaves
+Item moretrees:rubber_tree_sapling
+Item technology:floor
+Item moretrees:rubber_tree_trunk
+Item ferns:fern_01
+Item default:junglewood
+Item default:bush_stem
+Item default:sand
+Item default:coal_lump
+Item crops:potato
+Item default:gravel 3
+Item default:sandstone
+Item default:silver_sand 13
+Item default:iron_lump
+Item default:mossycobble
+Item flowers:waterlily
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+List enderchest 32
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory
