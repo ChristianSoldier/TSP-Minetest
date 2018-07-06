@@ -1,1 +1,1 @@
-return {["tAllElevators"] = {}, ["version"] = 1, ["tAllStations"] = {}, ["booking"] = {}, ["tWifi"] = {}, ["change_counter"] = 0}
+return {["tAllElevators"] = {}, ["version"] = 1, ["tAllStations"] = {}, ["booking"] = {}, ["tWifi"] = {}, ["change_counter"] = 114}
