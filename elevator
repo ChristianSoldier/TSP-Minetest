@@ -1,0 +1,1 @@
+return {["motors"] = {["(49,50,385)"] = {["elevators"] = {"(49,47,385)", "(49,-165,385)"}, ["pnames"] = {"47", "-165"}, ["labels"] = {"Hidden Passageway", "The Mind Control Facility"}}}}
