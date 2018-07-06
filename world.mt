@@ -1,6 +1,6 @@
 gameid = minetest
 backend = sqlite3
-creative_mode = true
+creative_mode = false
 enable_damage = false
 player_backend = files
 server_announce = false
